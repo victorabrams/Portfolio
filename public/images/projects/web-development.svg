@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" fill="none" role="img" aria-label="Web development project placeholder">
+  <rect width="800" height="600" fill="#111522"/>
+  <rect x="34" y="34" width="732" height="532" rx="28" fill="#171C2A" stroke="#303950" stroke-width="2"/>
+  <rect x="117" y="124" width="566" height="332" rx="20" fill="#0D111B" stroke="#303950" stroke-width="3"/>
+  <path d="M117 180h566" stroke="#303950" stroke-width="3"/>
+  <circle cx="153" cy="152" r="8" fill="#FF3131"/><circle cx="180" cy="152" r="8" fill="#A8B1C3"/><circle cx="207" cy="152" r="8" fill="#A8B1C3"/>
+  <path d="m264 274-58 45 58 45M536 274l58 45-58 45M456 247l-49 144" stroke="#FF3131" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="164" y="401" width="180" height="10" rx="5" fill="#303950"/><rect x="365" y="401" width="90" height="10" rx="5" fill="#FF3131" fill-opacity=".7"/>
+  <text x="400" y="505" text-anchor="middle" fill="#A8B1C3" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="5">WEB DEVELOPMENT</text>
+</svg>
