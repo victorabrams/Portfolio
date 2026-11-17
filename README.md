@@ -1,18 +1,22 @@
-# Ibrahim Fawwaz Portfolio — Next.js
+# Ibrahim Fawwaz Portfolio
 
-Portfolio dinamis berbasis Next.js App Router dan database SQLite lokal. Konten proyek, skills, sertifikat, testimoni, URL CV, serta pesan kontak tersimpan di `data/portfolio.db` dan dikelola melalui `/admin`.
+A personal portfolio website built with Next.js.
 
-## Menjalankan proyek
+## Getting Started
 
-1. Salin `.env.example` menjadi `.env.local`, lalu isi kata sandi admin dan session secret.
-2. Jalankan `npm install`.
-3. Jalankan `npm run db:init` jika file `data/portfolio.db` belum tersedia.
-4. Jalankan `npm run dev`, lalu buka `http://localhost:3000`.
+Install the dependencies and start the development server:
 
-Login admin awal jika belum mengatur `.env.local`: `ukk-admin-2026`. Ganti sebelum deployment.
+```bash
+npm install
+npm run dev
+```
 
-## Konten yang perlu Anda isi
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-- Tempel URL PDF CV pada Dashboard Admin → Link CV.
-- Tambahkan URL gambar/halaman kredensial sertifikat yang asli.
-- Ganti testimoni contoh dengan testimoni asli. Jangan menampilkan data contoh di portfolio final.
+## Deployment
+
+The project can be deployed on [Vercel](https://vercel.com/). Import this repository into Vercel and follow its deployment flow for Next.js.
+
+## License
+
+This project is for personal portfolio use.
